@@ -1,141 +1,162 @@
-<!-- Premium GitHub Profile | github.com/datta5566 -->
+<!-- Premium Developer Portfolio | github.com/datta5566 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:7f1d1d,100:ef4444&height=190&section=header&text=DATTA%20KALE&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=QUALITY%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20INNOVATION&descAlignY=60&descSize=15" width="100%" alt="Datta Kale profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:312e81,70:991b1b,100:ef4444&height=230&section=header&text=DATTA%20KALE&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=QUALITY%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20AI&descAlignY=58&descSize=16" width="100%" alt="Datta Kale portfolio banner" />
 
 <a href="https://github.com/datta5566">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=F87171&center=true&vCenter=true&width=650&lines=Quality+Professional+%7C+AI+Explorer;Building+useful+digital+solutions;Learn.+Build.+Improve.+Repeat." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=F87171&center=true&vCenter=true&width=700&lines=I+turn+real+problems+into+digital+solutions.;Manufacturing+Quality+%2B+Technology.;Always+learning.+Always+building." alt="Animated developer tagline" />
 </a>
 
 <p>
-  <a href="https://github.com/datta5566?tab=followers"><img src="https://img.shields.io/github/followers/datta5566?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
-  <a href="https://github.com/datta5566?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-DC2626?style=for-the-badge&logo=github" alt="Explore projects" /></a>
-  <a href="https://www.linkedin.com/in/datta-kale-49982621a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/datta5566?tab=followers"><img src="https://img.shields.io/github/followers/datta5566?style=for-the-badge&logo=github&label=FOLLOWERS&color=7c3aed" alt="Followers" /></a>
+<a href="https://github.com/datta5566?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-REPOSITORIES-DC2626?style=for-the-badge&logo=github" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/datta-kale-49982621a"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=datta5566&style=for-the-badge&color=7f1d1d&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=datta5566&style=flat-square&color=ef4444&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm **Datta Kale**, a **Jr. Officer – Quality** working in manufacturing quality and process improvement. I like connecting shop-floor experience with technology to make work more organized, traceable and data-driven.
-
-- 🏭 **Domain:** Manufacturing Quality, PDI and process improvement
-- 🔍 **Quality focus:** Inspection, rejection, rework, defect analysis and problem solving
-- 💡 **Building:** Practical digital tools for quality workflows and reporting
-- 🤖 **Exploring:** AI tools, automation and software development
-- 🌱 **Learning:** Web development, Python, Java and Power BI
-
-## 🧭 My Work
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### 🏭 Manufacturing Quality
-- Quality inspection and PDI
-- Rejection & rework analysis
-- 7 QC Tools, 8D and 5S
-- Process improvement and traceability
+## 👨‍💻 The Person Behind the Code
+
+I'm **Datta Kale** — a **Jr. Officer – Quality** with hands-on manufacturing experience and a growing passion for software, AI and automation.
+
+I bring two worlds together: understanding real shop-floor challenges and exploring digital ways to solve them.
+
+- 🏭 Manufacturing Quality · PDI · Process Improvement
+- 🔎 Inspection · Defect Analysis · 7 QC Tools · 8D · Kaizen
+- 💻 Building practical web-based tools and reporting workflows
+- 🤖 Exploring AI, automation and developer tools
+- 🌱 Learning HTML, CSS, JavaScript, Python, Java and Power BI
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-### 💻 Digital & Technology
-- Web tools with HTML, CSS and JavaScript
-- Data reporting with Excel and Power BI
-- Exploring Python and Java
-- AI tools and workflow automation
+## ⚡ My Focus
+
+**QUALITY**
+<br/>Accuracy · Traceability · Improvement
+
+**BUILD**
+<br/>Useful tools · Clean workflows
+
+**EXPLORE**
+<br/>AI · Automation · Data
+
+**MINDSET**
+<br/>Learn → Build → Improve
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Technology & Tools
+## 🧰 Tech Stack & Workshop
 
 <div align="center">
 
-**Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=dark&perline=8" alt="Technology stack icons" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=dark" alt="Technology icons" />
+<br/>
 
-**Analytics & Quality**
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-27272a?style=for-the-badge)
-![7 QC Tools](https://img.shields.io/badge/7_QC_Tools-27272a?style=for-the-badge)
-![Kaizen](https://img.shields.io/badge/Kaizen_%26_5S-27272a?style=for-the-badge)
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/QUALITY_ASSURANCE-27272a?style=for-the-badge" alt="Quality Assurance" />
+<img src="https://img.shields.io/badge/KAIZEN_%7C_8D_%7C_5S-27272a?style=for-the-badge" alt="Quality methods" />
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Quality Inspection System
-A work-in-progress concept for drawing-based part verification, barcode identification, inspection decisions and traceable PDF reports.
+### 🔍 Quality Inspection System
+**Digital quality workflow**
+
+A work-in-progress inspection solution concept: drawing references, barcode identification, PASS / REJECT / HOLD decisions and traceable PDF reports.
+
+<a href="https://github.com/datta5566/htmlfile"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-18181b?style=for-the-badge&logo=github" alt="View Quality Inspection repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Quality Management Analytics
-Quality reporting concepts covering unit-wise rejection, rework, groove defects, defect trends and management dashboards.
+### 🧠 REA – Tools & Experiments
+**Developer tools collection**
+
+A repository for technical experiments, tools and exploration.
+
+<a href="https://github.com/datta5566/rea"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-18181b?style=for-the-badge&logo=github" alt="View REA repository" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 PDI & Rejection Reporting
-Digital workflow ideas to organize inspection records, defect details and follow-up actions.
+### 📊 Quality Analytics
+**Management reporting concepts**
+
+Rejection, rework, groove defects, unit-wise trends and quality dashboards using spreadsheet and BI workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 REA – Tools & Experiments
-A collection of technical tools and experiments.
+### 🧾 PDI & Rejection Workflows
+**Process digitization**
 
-[Open repository →](https://github.com/datta5566/rea)
+Ideas for organizing inspection records, defect details, follow-ups and traceability.
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/datta5566?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-Explore_now-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
-</p>
-
-## 📈 GitHub Dashboard
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=datta5566&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datta5566&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="80%" src="https://streak-stats.demolab.com?user=datta5566&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/datta5566?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
 
 </div>
 
-## 🤝 Let's Connect
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-Have an idea around manufacturing quality, reporting or practical automation? Let's connect and learn together.
-
-<a href="https://www.linkedin.com/in/datta-kale-49982621a"><img src="https://img.shields.io/badge/LinkedIn-Datta_Kale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/datta5566"><img src="https://img.shields.io/badge/GitHub-datta5566-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-
-**Thanks for stopping by!** ⭐
-
-*Learn · Build · Improve · Repeat*
+<img src="https://github-profile-trophy.vercel.app/?username=datta5566&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,55:7f1d1d,100:09090b&height=100&section=footer" width="100%" alt="" />
+## 📊 Developer Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=datta5566&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datta5566&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=datta5566&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="80%" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=datta5566&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 🤝 Let's Build Something Useful
+
+Interested in manufacturing quality, process improvement, digital reporting or practical automation? Let's connect.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/datta-kale-49982621a"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/datta5566"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+
+### ⭐ Thanks for visiting my digital workspace!
+
+**Learn. Build. Improve. Repeat.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,45:7f1d1d,100:050816&height=130&section=footer" width="100%" alt="" />
